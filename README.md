@@ -2,6 +2,8 @@
 
 A modern **User Management Admin Panel** built with **Angular 17**, featuring lazy loading, RxJS state management, dynamic Chart.js charts, and a fully responsive dark UI.
 
+Live Demo: https://user-dashboard-64rut1aa7-pothana-srilathas-projects.vercel.app/dashboard
+
 ---
 
 ## 🚀 Getting Started
